@@ -1,0 +1,5 @@
+select  "Employee_FirstName", "Employee_LastName", public."Employee"."Employee_ID", "Doctor_Specialty" 
+from public."Employee", public."Doctor"
+where public."Employee"."Employee_ID" = public."Doctor"."Employee_ID"
+group by "Doctor_Specialty", "Employee_LastName", "Employee_FirstName", public."Employee"."Employee_ID"
+order by "Doctor_Specialty", "Employee_LastName"

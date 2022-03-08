@@ -1,0 +1,36 @@
+﻿ID,SSN,First_Name,Last_Name,Sex,DOB,PhoneNumber,Salary,Street,Apt_Number,City,State,Zip_Coce,Type
+1001,769140518,James,Smith,M,11/8/1992,7864835629,72500,128 John St.,807,Aventura,Florida,33111,Nurse
+1002,595303703,Michael,Clark,M,12/6/1987,2178634270,74000,135 Dear Way,101,Coral Gables,Florida,33109,Nurse
+1003,863297546,Robert,Davis,M,7/9/1980,7864261272,84000,111 St. Thomans Drive,203,Doral,Florida,33114,Nurse
+1004,836485110,Maria,Garcia,F,1/3/1995,2178634684,68500,183 John St.,406,Doral,Florida,33127,Nurse
+1005,926352263,David,Garcia,M,7/27/1977,7864269732,85500,176 St. Thomans Drive,412,Hialeah,Florida,33128,Nurse
+1006,172523972,Merlin,Rodriguez,F,2/23/1972,2178639410,86200,46 St. Peter Drive,103,Homestead,Florida,33126,Nurse
+1007,962136328,Catherine,Smith,F,5/25/1985,2178637539,71200,54 John St.,105,Miami,Florida,33126,Nurse
+1008,282163252,Mary,Hernandez,F,4/14/1997,2176343414,55200,77 Garden Way,207,Miami Lakes,Florida,33127,Receptionist
+1009,756282182,Maria,Martinez,F,4/24/1996,7864260972,54350,132 Alibaba St.,208,North Miami,Florida,33112,Receptionist
+1010,825627832,James,Johnson,M,7/9/1998,2176342174,122800,122 Dochester Ln,,Aventura,Florida,33115,Doctor
+1011,521910835,Poorva,Saklani,F,1/10/1989,2178436270,130500,134 Newark Way,,Coral Gables,Florida,33128,Doctor
+1012,841696335,Ashish,Saklani,M,7/3/1985,2178639634,125200,112 Main Street,,Doral,Florida,33126,Doctor
+1013,519264537,Aviral,Vyas,M,9/9/1996,7864261533,105500,110 Nulla St.,,Doral,Florida,33126,Doctor
+1014,436171294,Amita,Vyas,F,12/20/1987,7862685342,121800,175 Fusce Rd.,,Hialeah,Florida,33127,Doctor
+1015,643637818,Anshuman,Dogra,M,7/30/1996,7864172426,117800,48 Ullamcorper. Street,,Homestead,Florida,33112,Doctor
+1016,542127831,Priyansh,Dogra,M,3/6/1992,2178639628,105600,58 Dictum Av.,,Miami,Florida,33115,Doctor
+1017,595703703,Danny,Clark,M,10/8/1995,2178634296,58900,P.O. Box 887 2508 Dolor. Av.,102,Coral Gables,Florida,33127,Receptionist
+1018,863297577,George,Davis,M,1/15/1985,7864261285,85400,5762 At Rd.,208,Doral,Florida,33128,Nurse
+1019,836475110,Henry,Brown,M,11/4/1997,217863463,71000,183  Tortor. Street,106,Doral,Florida,33126,Nurse
+1020,926382263,Thomas,Taylor,M,2/4/1996,7864697767,72000,176  Tortor. Street,112,Hialeah,Florida,33126,Nurse
+1021,172593972,Charles,William,M,7/19/1998,2178639484,98000,46 Lacinia Avenue,,Homestead,Florida,33127,Doctor
+1022,962139328,Joseph,Wilson,M,6/10/1989,2178637557,120200,54 Ullamcorper Avenue,,Miami,Florida,33112,Doctor
+1023,282453252,Samuel,Miller,M,8/3/1985,2176343418,103200,5037 Diam Rd.,,Miami Lakes,Florida,33115,Doctor
+1024,756288182,Sarah,Jones,F,9/19/1996,7864260964,144900,6351 Fringilla Avenue,,North Miami,Florida,33128,Doctor
+1025,825697832,Elizabeth,Taylor,F,11/8/1992,2176342137,109700,9383 Suspendisse Av.,,Aventura,Florida,33126,Doctor
+1026,521960835,Martha,Brown,F,4/14/1987,2178436299,101500,407 Et Rd.,,Coral Gables,Florida,33126,Doctor
+1027,841606335,Margaret,Wilson,F,6/3/1980,2178639654,109400,5982 Sit Ave,,Doral,Florida,33127,Doctor
+1028,519064537,Ann,Garcia,F,1/3/1995,7864241533,186900,313 Pellentesque Ave,,Doral,Florida,33112,Doctor
+1029,436101294,Nancy,Rojas,F,5/27/1977,7862685336,86050,3476 Aliquet. Ave,,Hialeah,Florida,33126,Nurse
+1030,643097818,Jane,Perez,F,3/22/1972,7864172482,87300,336 Ullamcorper. Street,212,Homestead,Florida,33113,Nurse
+1031,763297577,Alexis,Rose,F,7/12/1980,2176356418,110800,9291 Proin Road,903,Doral,Florida,33126,Doctor
+1032,536475116,Moira,Domasctti,F,1/23/1995,7864230964,93500,7006 Risus St.,,Hialeah,Florida,33127,Doctor
+1033,826382263,Roldan,Morales,M,7/17/1977,2176792137,115200,6818 Eget St.,,Homestead,Florida,33112,Doctor
+1034,672593972,John,Lopez,M,2/3/1972,2176283418,125500,1561 Duis Rd.,,Miami,Florida,33115,Doctor
+1035,562139328,Ivan,Lee,M,5/15/1985,7864490964,101800,7936 Feugiat St.,,Miami,Florida,33112,Doctor

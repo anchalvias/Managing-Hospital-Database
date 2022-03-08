@@ -1,0 +1,1 @@
+select AVG("Price" * "Quantity")::numeric(10,2) as "Cost" from public."Treatment"
